@@ -24,4 +24,4 @@ There is a switch included which helps to indicate the choice through number's i
 > [!IMPORTANT]
 > The whole thing is in a loop and will give you a choice untill you decide to turn off the radio. 
 
-# Hope, it was fun! Have a nice day.
+# Hopefully, it was fun! Have a nice day.
