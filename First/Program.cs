@@ -6,9 +6,10 @@
         {
 
             Console.WriteLine(
-                $"Each flower has its own needs. Roses need to be watered once every 3 days. " +
-                $"Carnations once every 2 days, and any other flower once every 1 day." +
-                $" This program will help you know when to water the plant and if you have not missed a day already.");
+                $"\nEach flower has its own needs. Roses need to be watered once every 3 days. " +
+                $"\nCarnations once every 2 days, and any other flower once every 1 day." +
+                $"\nThis program will help you know when to water the plant " +
+                $"\nand if you have not missed a day already.");
             Console.WriteLine("Please write the name of the flower, it could be 1) rose, 2) carnation, 3) other. Any other won't be accepted.");
             var input = Console.ReadLine().ToLower();
 
